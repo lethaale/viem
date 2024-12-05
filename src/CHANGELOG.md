@@ -1,5 +1,11 @@
 # viem
 
+## 2.21.55
+
+### Patch Changes
+
+- [#3096](https://github.com/wevm/viem/pull/3096) [`092615f58a19994b6ba01dfb30b9ba0f6ad2902b`](https://github.com/wevm/viem/commit/092615f58a19994b6ba01dfb30b9ba0f6ad2902b) Thanks [@jxom](https://github.com/jxom)! - **Experimental:** Synced ERC-7739 extension to latest spec.
+
 ## 2.21.54
 
 ### Patch Changes
